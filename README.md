@@ -32,8 +32,8 @@ To view and interact with the Excel dashboard:
 2. Open it in Microsoft Excel.
 3. Explore the dashboard, use the slicers, and analyze the data.
 
-## Project Screenshots
-
+## Dashboard Overview
+![Dashboard Overview](ss.PNG)
 
 ## Acknowledgments
 Special thanks to all the resources and tutorials that guided me through this project, helping me refine my Excel skills and create an insightful dashboard.
